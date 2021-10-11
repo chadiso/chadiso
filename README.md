@@ -1,5 +1,5 @@
 ### Hi there, I'm Roman 👋
-![I am a Software Developer & Encourager with 9+ yrs. overall tech experience.](https://github-readme-stats.vercel.app/api?username=chadiso&count_private=true&show_icons=true&theme=light)
+![I am a Software Developer & Encourager with 9+ yrs. overall tech experience.](https://camo.githubusercontent.com/dbbae71093fa54ce72e78b68c40b1cfd608566184b85da7551513e34944a0378/687474703a2f2f626c6f672e7465616d74726565686f7573652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f7261696c73426c6f67312e6a7067)
 
 ### Summary
 
